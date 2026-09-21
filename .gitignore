@@ -1,0 +1,22 @@
+# Sensor recordings / private location data
+Session_*/
+*.csv
+
+# Generated outputs
+footnav_3d.html
+gnss_route.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backup
+backup/
